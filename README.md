@@ -16,68 +16,36 @@ I build clean, scalable applications using modern tools and love working on data
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-</a>
-
-<a href="https://reactjs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-</a>
-
-<a href="https://vitejs.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vitejs" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="flask" width="40" height="40"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-</a>
-
-<a href="https://roboflow.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/Sanjay-sc/roboflow-icons/main/roboflow.png" alt="roboflow" width="40" height="40"/>
-</a>
-
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/Sanjay-sc/ai-icons/main/ai-brain.png" alt="ai" width="40" height="40"/>
-</a>
-
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vitejs" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="https://roboflow.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Sanjay-sc/roboflow-icons/main/roboflow.png" alt="roboflow" width="40" height="40"/> </a> &nbsp;
+  
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Sanjay-sc/ai-icons/main/ai-brain.png" alt="ai" width="40" height="40"/> </a>
 </p>
 
 ---
