@@ -66,9 +66,8 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
       <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
       <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/></a>
       <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="davinci" width="40" height="40"/></a>
-      <a href="https://www.capcut.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/capcut.png" alt="capcut" width="40" height="40"/></a>
       <a href="https://www.audacityteam.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/audacity.png" alt="audacity" width="40" height="40"/></a>
-      <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="office" width="40" height="40"/></a>
+      
     </td>
   </tr>
 </table>
