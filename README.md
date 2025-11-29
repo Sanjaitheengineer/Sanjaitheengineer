@@ -42,7 +42,6 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
       <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
       <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
       <a href="https://matplotlib.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-      <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/></a>
       <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
       <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="excel" width="40" height="40"/></a>
     </td>
@@ -51,7 +50,6 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
       <a href="https://roboflow.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/53379296?s=200&v=4" alt="roboflow" width="40" height="40"/></a>
       <a href="https://openai.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
       <a href="https://gemini.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/></a>
-      <a href="#" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/brain-computer-interface.png" alt="prompt engineering" width="40" height="40" title="Prompt Engineering"/></a>
     </td>
   </tr>
   <tr>
@@ -67,7 +65,6 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
       <a href="https://www.adobe.com/products/premiere.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/></a>
       <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank"><img src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="davinci" width="40" height="40"/></a>
       <a href="https://www.audacityteam.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/audacity.png" alt="audacity" width="40" height="40"/></a>
-      
     </td>
   </tr>
 </table>
