@@ -11,14 +11,14 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
 - 🔭 **Full-Stack Development:** Building scalable web apps with **React.js, Node.js,** and **Modern UI/UX**.
 - 📊 **Data Science & AI:** Unlocking insights using **Python, Power BI,** and **Generative AI** models.
 - 🎨 **Digital Creativity:** Expert in **Video Editing, Digital Marketing,** and **Content Strategy** (Davinci, Premiere Pro).
-- 💡 **Current Focus:** Exploring the intersection of **AI Agents, Prompt Engineering,** and **Automated Content Workflows**.
+- 💡 **Current Focus:** Exploring the intersection of **AI Agents** and **Automated Content Workflows**.
 - ⚡ **Mission:** Leveraging technology to solve real-world business problems with a creative touch.
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<table align="center">
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <h3>🎨 Frontend Development</h3>
@@ -74,7 +74,7 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
 ## 🔥 GitHub Stats & Streaks
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-sc&theme=tokyonight" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-sc&theme=tokyonight" alt="GitHub Streak Stats" width="90%"/>
 </p>
 
 ---
