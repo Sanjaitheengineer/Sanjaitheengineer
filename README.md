@@ -92,7 +92,7 @@ Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap b
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjai-g-045468304/">
+<a href="https://www.linkedin.com/in/sanjaitheengineer/">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
 </p>
