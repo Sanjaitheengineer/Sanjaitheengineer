@@ -1,6 +1,24 @@
+# 🌟 Sanjai G
+
+### *“Transforming complex ideas into reality through Code, Data, and Creativity.”*
+
+---
+
+## 🚀 About Me
+
+Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap between software engineering and creative storytelling. I don't just write code; I build data-driven solutions and craft digital experiences.
+
+- 🔭 **Full-Stack Development:** Building scalable web apps with **React.js, Node.js,** and **Modern UI/UX**.
+- 📊 **Data Science & AI:** Unlocking insights using **Python, Power BI,** and **Generative AI** models.
+- 🎨 **Digital Creativity:** Expert in **Video Editing, Digital Marketing,** and **Content Strategy** (Davinci, Premiere Pro).
+- 💡 **Current Focus:** Exploring the intersection of **AI Agents** and **Automated Content Workflows**.
+- ⚡ **Mission:** Leveraging technology to solve real-world business problems with a creative touch.
+
+---
+
 ## 🛠️ Languages & Tools
 
-<table width="100%">
+<table width="100%" cellspacing="0" cellpadding="20">
   <tr>
     <td align="center" width="33%">
       <h3>🎨 Frontend</h3>
@@ -22,6 +40,7 @@
       <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="33%">
       <h3>📊 Data Science</h3>
@@ -48,3 +67,21 @@
     </td>
   </tr>
 </table>
+
+---
+
+## 🔥 GitHub Stats & Streaks
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjay-sc&theme=tokyonight" alt="GitHub Streak Stats" width="90%"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sanjai-g-045468304/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
+</p>
