@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Sanjai G</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">Python Developer | Data & AI Enthusiast</h3>
 
-<p align="left">
- <img src="https://komarev.com/ghpvc/?username=sanjaitheengineer&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaitheengineer" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjaitheengineer&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaitheengineer" />
 </p>
 
-- 📫 How to reach me **sanjaitheengineer@gmail.com**
+<p align="center">
+  📫 Reach me at <strong>sanjaitheengineer@gmail.com</strong>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sanjaitheengineer/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/sanjaitheengineer/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 </p>
 
-<!-- UPDATED LANGUAGES & TOOLS SECTION -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
@@ -40,16 +41,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </a>
 <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vitejs" width="40" height="40"/>
 </a>
-<a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+
+<!-- Backend Frameworks -->
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flask.svg" alt="flask" width="40" height="40"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
 <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
 
-<!-- Data & ML -->
+<!-- Data & ML Tools -->
 <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
 </a>
@@ -64,8 +67,8 @@
 </a>
 
 <!-- AI Tools -->
-<a href="https://www.roboflow.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/roboflow-ai/roboflow-brand/main/svg/roboflow-logo.svg" alt="roboflow" width="40" height="40"/>
+<a href="https://roboflow.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/roboflow/inference/main/docs/assets/roboflow_logo.svg" alt="roboflow" width="40" height="40"/>
 </a>
 <a href="#" target="_blank" rel="noreferrer">
 <img src="https://cdn-icons-png.flaticon.com/512/11496/11496710.png" alt="ai" width="40" height="40"/>
@@ -73,14 +76,16 @@
 
 </p>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaitheengineer&show_icons=true&locale=en&layout=compact" alt="sanjaitheengineer" />
-</p>
+<br/>
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaitheengineer&show_icons=true&locale=en" alt="sanjaitheengineer" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaitheengineer&show_icons=true&locale=en&layout=compact" alt="sanjaitheengineer" />
 </p>
 
 <p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaitheengineer&" alt="sanjaitheengineer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaitheengineer&show_icons=true&locale=en" alt="sanjaitheengineer" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaitheengineer" alt="sanjaitheengineer" />
 </p>
