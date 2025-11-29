@@ -1,36 +1,73 @@
-# 🌟 Sanjai G — Developer | Data Analyst | ML Practitioner
+# 🌟 Sanjai G
 
-Hi, I'm Sanjai G, a passionate developer working across full-stack development, data analytics, and machine learning.
-I build clean, scalable applications using modern tools and love working on data-driven solutions.
+### *“Transforming complex ideas into reality through Code, Data, and Creativity.”*
 
 ---
 
 ## 🚀 About Me
-- Focused on Node.js, React.js, Data Analytics & AI projects
-- Building full-stack apps with clean architecture
-- Exploring deep learning, computer vision, and ML deployment
-- Passionate about turning business problems into automated solutions
-- Always learning, always building
+
+Hi, I'm **Sanjai**, a multi-disciplinary tech professional who bridges the gap between software engineering and creative storytelling. I don't just write code; I build data-driven solutions and craft digital experiences.
+
+- 🔭 **Full-Stack Development:** Building scalable web apps with **React.js, Node.js,** and **Modern UI/UX**.
+- 📊 **Data Science & AI:** Unlocking insights using **Python, Power BI,** and **Generative AI** models.
+- 🎨 **Digital Creativity:** Expert in **Video Editing, Digital Marketing,** and **Content Strategy** (Davinci, Premiere Pro).
+- 💡 **Current Focus:** Exploring the intersection of **AI Agents, Prompt Engineering,** and **Automated Content Workflows**.
+- ⚡ **Mission:** Leveraging technology to solve real-world business problems with a creative touch.
 
 ---
 
 ## 🛠️ Languages & Tools
 
+### 🎨 Frontend Development
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="vitejs" width="40" height="40"/></a>
+</p>
+
+### ⚙️ Backend Development
+<p align="left">
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></a>
+</p>
+
+### 📊 Data Science & Analytics
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/></a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="seaborn" width="40" height="40"/></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/></a>
+</p>
+
+### 🤖 AI & GenAI Tools
+<p align="left">
   <a href="https://roboflow.com/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/53379296?s=200&v=4" alt="roboflow" width="40" height="40"/></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="ai" width="40" height="40"/></a>
+  <a href="https://openai.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/></a>
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="gemini" width="40" height="40"/></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/brain-computer-interface.png" alt="prompt engineering" width="40" height="40" title="Prompt Engineering"/></a>
+</p>
+
+### 🎬 Content Creation & Digital Tools
+<p align="left">
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="premiere" width="40" height="40"/></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/davinci-resolve.png" alt="davinci" width="40" height="40"/></a>
+  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/capcut.png" alt="capcut" width="40" height="40"/></a>
+  <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/audacity.png" alt="audacity" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" alt="office" width="40" height="40"/></a>
 </p>
 
 ---
